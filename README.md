@@ -56,7 +56,7 @@ A hands-on project showcasing the deployment of the classic **2048 game** as a R
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/kubernetes-2048-game-deployment.git
+git clone https://github.com/AmanDeol063/Kubernetes-2048-Game-Deployment.git
 cd kubernetes-2048-game-deployment
 ```
 
