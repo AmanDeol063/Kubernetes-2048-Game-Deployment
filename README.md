@@ -15,10 +15,7 @@ A hands-on project showcasing the deployment of the classic **2048 game** as a R
   * [2. Build & Containerize](#2-build--containerize)
   * [3. Push to Container Registry](#3-push-to-container-registry)
   * [4. Deploy to Kubernetes (EKS + Fargate)](#4-deploy-to-kubernetes-eks--fargate)
-* [Accessing the App](#accessing-the-app)
-* [(Optional) Serverless Scoreboard](#optional-serverless-scoreboard)
 * [Cleanup](#cleanup)
-* [License](#license)
 
 ---
 
